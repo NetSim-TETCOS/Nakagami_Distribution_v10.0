@@ -1,0 +1,64 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  RTS_CTS.c
+  PropagationModel.c
+  Minstrel_ht.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel_ht.c(776): warning Msg: Implement the HT_Minstrel_Free
+  Minstrel.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(223): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(443): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(522): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(530): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(537): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(559): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(579): warning C4018: '>=': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(693): warning C4018: '<=': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(725): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(752): warning C4018: '<=': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(758): warning C4018: '<=': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(762): warning C4018: '<': signed/unsigned mismatch
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\minstrel.c(743): warning C4101: 'fp': unreferenced local variable
+  MeshBSS.c
+  MATLAB_Interface.c
+  InfrastructureBSS.c
+  IEEE802_11_Radio.c
+  IEEE802_11_PhyFrame.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_phyframe.c(44): warning C4101: 'ofdmPlcp': unreferenced local variable
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_phyframe.c(43): warning C4101: 'dsssPlcp': unreferenced local variable
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_phyframe.c(45): warning C4101: 'htPlcp': unreferenced local variable
+  IEEE802_11_Phy.c
+  IEEE802_11_MacFrame.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_macframe.c(396): warning C4244: '=': conversion from 'double' to 'UINT16', possible loss of data
+  IEEE802_11_Mac.c
+  IEEE802_11_HTPhy.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_htphy.c(37): warning C4091: 'static ': ignored on left of 'stru_802_11_Phy_Parameters_HT' when no variable is declared
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_htphy.c(1064): warning C4101: 'fCodingRate': unreferenced local variable
+  IEEE802_11_enum.c
+  IEEE802_11_DSSSPhy.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11_dsssphy.c(27): warning C4091: 'static ': ignored on left of 'stru_802_11_Phy_Parameters_DSSS' when no variable is declared
+  IEEE802_11n.c
+  IEEE802_11e.c
+  IEEE802_11ac.c
+  IEEE802_11.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11.c(106): warning C4013: 'fn_NetSim_IEEE802_11_Metrics_F' undefined; assuming extern returning int
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802_11.c(107): warning C4013: 'print_minstrel_table' undefined; assuming extern returning int
+  IEEE802.11_OFDMPhy.c
+c:\users\upal\desktop\v10.0.14_x86\nakagami_x86_v10.0.14\using m file\ieee802_11\ieee802.11_ofdmphy.c(30): warning C4091: 'static ': ignored on left of 'stru_802_11_Phy_Parameters_OFDM' when no variable is declared
+  Generating Code...
+  Compiling...
+  IEEE1609_interface.c
+  Generic_RateAdaptation.c
+  CSMACA.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\UPAL\Desktop\v10.0.14_x86\Nakagami_x86_v10.0.14\Using m file\IEEE802_11\..\Dll\IEEE802_11.dll) does not match the Linker's OutputFile property value (C:\Users\UPAL\Desktop\v10.0.14_x86\Nakagami_x86_v10.0.14\Using m file\Dll\libIEEE802.11.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(IEEE802_11) does not match the Linker's OutputFile property value (libIEEE802.11). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+CSMACA.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  IEEE802.11.lib(IEEE802.11lib.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+CSMACA.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library ..\Dll\IEEE802_11.lib and object ..\Dll\IEEE802_11.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+IEEE802.11.lib(IEEE802.11lib.obj) : warning LNK4099: PDB 'IEEE802.11lib.pdb' was not found with 'IEEE802.11.lib(IEEE802.11lib.obj)' or at 'C:\Users\UPAL\Desktop\v10.0.14_x86\Nakagami_x86_v10.0.14\Using m file\Dll\IEEE802.11lib.pdb'; linking object as if no debug info
+  IEEE802_11.vcxproj -> C:\Users\UPAL\Desktop\v10.0.14_x86\Nakagami_x86_v10.0.14\Using m file\IEEE802_11\..\Dll\IEEE802_11.dll
+  IEEE802_11.vcxproj -> ..\Dll\IEEE802_11.pdb (Full PDB)
